@@ -12,7 +12,7 @@ devtools::install_github("jnhwllr/nppac")
 
 ## usage 
 
-A file names `R.xml` saves to `C:/Program Files/Notepad++/autoCompletion/`. You might have to **change permissions** on the folder for the script work.  
+A file named `R.xml` saves to `C:/Program Files/Notepad++/autoCompletion/`. You might have to **change permissions** on the folder for the script work.  
 
 ```r
 # load the libraries you want have autocomplete for. 
