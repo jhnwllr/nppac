@@ -7,7 +7,7 @@ https://gist.github.com/yihui/2143971
 ## installation 
 
 ```r
-devtools::install_github("jnhwllr/nppac")
+devtools::install_github("jhnwllr/nppac")
 ```
 
 ## usage 
